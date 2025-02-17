@@ -2,7 +2,7 @@
 
 ## 2302399 PROJECT PROPOSAL I (2024)
 
-[Read about **eye** tracking here](https://github.com/DivergentDraco/School-Eye-Gaze-Project))
+[Read about **eye** tracking here](https://github.com/DivergentDraco/School-Eye-Gaze-Project)
 
 [อ่านฉบับภาษาไทยได้ที่นี่ | You can read the Thai version here](MANUAL_TH.md)
 
