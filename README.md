@@ -12,7 +12,7 @@
 
 Head tracking is an alternative way to compensate for eye tracking, it was implemented by using the camera to detect one of the components of the face. This small project came to light after we initiated a detailed analysis through tests, questions, and surveys throughout the school.
 
-This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using open-source face tracking that tracks the eye. 
+This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using open-source face tracking.
 
 ---
 
