@@ -63,7 +63,7 @@ The objective of this project is to try and see methods that can be used within 
 1. Install the following program\
  1.1 Python 3.9.13\
  1.2 Code editor (ex. Visual Studio Code)\
- 1.3 Webcam\
+ 1.3 Webcam
 3. Install the provided file\
  2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.\
  2.2 Open **tracker_sample.py**
