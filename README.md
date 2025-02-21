@@ -1,6 +1,6 @@
-# Manual (คู่มือการใช้งาน)
+# Manual for Face Tracking 
 
-## 2302399 PROJECT PROPOSAL I (2024)
+## 2302307 Interactive Science and Social Project (ISSP) AY 2024
 
 [Read about **eye** tracking here](https://github.com/DivergentDraco/School-Eye-Gaze-Project)
 
@@ -10,10 +10,11 @@
 
 # Introduction
 
-Head tracking is an alternative way to compensate for eye tracking, it was implemented by using the camera to detect one of the components of the face. This small project came to light after we initiated a detailed analysis through tests, questions, and surveys throughout the school.
+Face tracking is an alternative way to compensate eye tracking weaknesses; it was implemented by using camera to detect the components of the face. This project came to the light, after we initiated a detailed analysis through observation, interview questions, and surveys throughout the school.
 
 This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using open-source face tracking.
 
+This repository was made specifically for the Interactive Science and Social Project (ISSP), in collaboration with Worcester Polytechnic Institute, USA, that the students studying in Bachelor of Science in Applied Chemistry, Chemistry Department, Faculty of Science, Chulalongkorn University has to accomplish, where Sri Sangwan School is our sponsor. We, students doing this project, are interested in the software called Beam Eye Tracker to utilize it for the gaze bubble to follow with the mouse.Implemented by using open-source face tracking.
 ---
 
 ## Members
@@ -68,7 +69,9 @@ The objective of this project is to try and see methods that can be used within 
  2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.\
  2.2 Open **tracker_sample.py**
 
-You should be able to run the code, and it will turn the webcam on. This should be the following result.
+You should be able to run the code, and it will turn the webcam on. This should be the following result.\
+![image](https://github.com/user-attachments/assets/36076fa7-91a7-4614-afd1-66ebf377c9c8)
+
 
 > [!WARNING]
 > Unlike the eye tracking repository, this head tracking doesn't consume budget on programs.
