@@ -10,11 +10,12 @@
 
 # Introduction
 
-Face tracking is an alternative way to compensate eye tracking weaknesses; it was implemented by using camera to detect the components of the face. This project came to the light, after we initiated a detailed analysis through observation, interview questions, and surveys throughout the school.
+Face tracking is an alternative way to compensate for eye-tracking weaknesses; it was implemented by using camera to detect the components of the face. This project came to the light, after we initiated a detailed analysis through observation, interview questions, and surveys throughout the school.
 
 This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using open-source face tracking.
 
 This repository was made specifically for the Interactive Science and Social Project (ISSP), in collaboration with Worcester Polytechnic Institute, USA, that the students studying in Bachelor of Science in Applied Chemistry, Chemistry Department, Faculty of Science, Chulalongkorn University has to accomplish, where Sri Sangwan School is our sponsor. We, students doing this project, are interested in the software called Beam Eye Tracker to utilize it for the gaze bubble to follow with the mouse.Implemented by using open-source face tracking.
+
 ---
 
 ## Members
