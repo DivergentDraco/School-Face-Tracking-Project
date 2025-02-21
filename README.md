@@ -4,7 +4,7 @@
 
 [Read about **eye** tracking here](https://github.com/DivergentDraco/School-Eye-Gaze-Project)
 
-[อ่านฉบับภาษาไทยได้ที่นี่ | You can read the Thai version here](MANUAL_TH.md)
+[อ่านฉบับภาษาไทยได้ที่นี่ | Click here for Thai version](MANUAL_TH.md)
 
 ---
 
@@ -12,9 +12,8 @@
 
 Face tracking is an alternative way to compensate for eye-tracking weaknesses; it was implemented by using camera to detect the components of the face. This project came to the light, after we initiated a detailed analysis through observation, interview questions, and surveys throughout the school.
 
-This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using open-source face tracking.
-
-This repository was made specifically for the Interactive Science and Social Project (ISSP), in collaboration with Worcester Polytechnic Institute, USA, that the students studying in Bachelor of Science in Applied Chemistry, Chemistry Department, Faculty of Science, Chulalongkorn University has to accomplish, where Sri Sangwan School is our sponsor. We, students doing this project, are interested in the software called Beam Eye Tracker to utilize it for the gaze bubble to follow with the mouse.Implemented by using open-source face tracking.
+This repository was made specifically for the  **Interactive Science and Social Project 
+ (ISSP)**, in collaboration with Worcester Polytechnic Institute, USA. The students studying in Bachelor of Science in Applied Chemistry, Chemistry Department, Faculty of Science, Chulalongkorn University has to accomplish. In this project, Sri Sangwan School is our sponsor. We are interested in the open-source face-tracking software to utilize it for the gaze bubble to follow with the mouse, along with face movement.
 
 ---
 
@@ -34,11 +33,11 @@ This repository was made specifically for the Interactive Science and Social Pro
 
 **Sri Sangwan School** is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
 
-This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, after testing the available eye-tracker, Beam Eye Tracker, we believe head tracking could be an alternative that is much more sturdy, less fatigued, and precise than an eye-tracking system.
+This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations. However, after the students had experimented using eye-tracking software, it came to the conclusion that face-tracking software is a more stable alternative software. There is no eye fatigue and more precision. The first difference between these 2 programs is that for eye-tracking software, the camera tracks the eyes only, meaning if the detection of the eyes is not decent, new calibration of the software is required. While the face-tracking software enable the camera to follow the eyes where they go. In other words, face-tracking allows precision by letting mouse cursor follow wherever the eyes are moving to.
 
 ![School Banner](https://github.com/user-attachments/assets/9b123cf6-f919-4abe-b54b-365a5b79b447)
 
-## Our purpose and objective
+## Our Goal
 The objective of this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
 
 ### Coding language used
@@ -51,14 +50,14 @@ The objective of this project is to try and see methods that can be used within 
  - **Webcam** is an important equipment for tracking the face. Low quality webcam is encouraged with 30 fps laptop webcam is enough.
    Recommendation is Logitech C270 HD which costs around 590 baht.
 
-# Demo video
+# Demo Video
 [Find it here]()
 
 ---
 
 # Installation
 
-## Installation video
+## Installation Video
 [Find it here]() 
 
 ## Installation steps
@@ -70,21 +69,20 @@ The objective of this project is to try and see methods that can be used within 
  2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.\
  2.2 Open **tracker_sample.py**
 
-You should be able to run the code, and it will turn the webcam on. This should be the following result.\
+You should be able to run the code, and it will turn the webcam on. This should be the following result.
 ![image](https://github.com/user-attachments/assets/36076fa7-91a7-4614-afd1-66ebf377c9c8)
 
 
 > [!WARNING]
-> Unlike the eye tracking repository, this head tracking doesn't consume budget on programs.
+> Unlike the eye-tracking repository, this face tracking doesn't consume budget on programs.
 
 > [!WARNING]
-> > This small head-tracking project is in development progress. Which does not intend to be implemented due to many factors such as calibration and sensitivity problems. This project was made to help with recommendations to the school and give other future teams to help with decision-making.
+> > This small face-tracking project is in development progress, which does not intend to be implemented due to many factors, such as calibration and sensitivity problems. This project was made to help with recommendations to the school and give other future teams to help with decision-making.
 
+In conclusion, the face-tracking software has a better precision than eye-tracking software increasing the potential for the real applicaiton.
 
-
-# Issues
-Considering that head tracking has less problems due to better precision, it has little problem that can be usable if implemented correctly.
-
-- Head movement\
+# Encountered Issues
+- Face and neck movement
   Some students at the school may suffer from abnormal neck muscle movement. Further study and troubleshooting needs to be conducted.
 
+Should you encounter any problems, please feel free to contact us via Srisangwanissp@gmail.com
