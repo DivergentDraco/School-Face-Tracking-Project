@@ -68,7 +68,9 @@ The objective of this project is to try and see methods that can be used within 
  2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.\
  2.2 Open **tracker_sample.py**
 
-You should be able to run the code, and it will turn the webcam on. This should be the following result.
+You should be able to run the code, and it will turn the webcam on. This should be the following result.\
+![image](https://github.com/user-attachments/assets/36076fa7-91a7-4614-afd1-66ebf377c9c8)
+
 
 > [!WARNING]
 > Unlike the eye tracking repository, this head tracking doesn't consume budget on programs.
