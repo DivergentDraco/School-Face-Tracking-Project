@@ -1,4 +1,4 @@
-# Manual for Face Tracking 
+# Face Tracking Manual 
 
 ## 2302307 Interactive Science and Social Project (ISSP) AY 2024
 
