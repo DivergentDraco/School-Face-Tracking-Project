@@ -77,9 +77,9 @@ You should be able to run the code, and it will turn the webcam on. This should 
 > Unlike the eye-tracking repository, this face tracking doesn't consume budget on programs.
 
 > [!WARNING]
-> > This face-tracking project is in development progress, and does not intend to be implemented due to many factors, such as calibration and sensitivity problems. This project was made to help with recommendations to the school and give other future teams to help with decision-making.
+> > This face-tracking project is in development progress, which does not intend to be implemented due to many factors, such as calibration and sensitivity problems. This project was made to help with recommendations to the school and give other future teams to help with decision-making.
 
-In conclusion, face-tracking software has better precision than eye-tracking software increasing the potential for real applications.
+In conclusion, the face-tracking software has a better precision than eye-tracking software increasing the potential for the real applicaiton.
 
 # Encountered Issues
 - Face and neck movement\
