@@ -1,6 +1,6 @@
 # Face Tracking Manual 
 
-## 2302307 Interactive Science and Social Project (ISSP) AY 2024
+## 2302307 Interactive Science and Social Project (ISSP) Academic Year 2024
 
 [Read about **eye** tracking here](https://github.com/DivergentDraco/School-Eye-Gaze-Project)
 
